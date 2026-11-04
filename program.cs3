@@ -1,6 +1,0 @@
-console.writeline("What's your name?");
-console.readline();
-int age = goint32.parseconsole.readline();
-console.writeline("What's your age?");
-console.readline();
-
