@@ -15,7 +15,7 @@ namespace CsharpVS
             Console.WriteLine("multiplication of mynumber is  " + 55.34 * mynumber);
             int menumber = 44;
             double mydouble = menumber;
-            Console.WriteLine("assaining to the mydouble a value of me number")
+            Console.WriteLine("assaining to the mydouble a value of me number");
             Console.WriteLine("also their multiplication is " + menumber * mydouble);
             Console.WriteLine("Abs "  + Math.Abs(-34 * 54));
             Console.WriteLine("Round value is " + Math.Round(45.433, 2));

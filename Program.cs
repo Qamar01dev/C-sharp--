@@ -9,7 +9,7 @@ namespace CsharpVS
     {
         static void Main(string[] args)
         {
-            pro4.Run();
+            pro5.Run();
         }
     }    
 }
