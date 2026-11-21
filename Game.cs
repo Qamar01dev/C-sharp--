@@ -18,12 +18,13 @@ namespace CsharpVS
             game1.price = "50k";
             game1.time = "6 hours";
             Console.WriteLine(game1.title);
+            Console.WriteLine(game1.studio);
             Game game2 = new Game();
             game2.title = "c# adventure";
             game2.studio = "code with luna ";
             game2.price = "40k";
             game2.time = "8 hours";
-            Console.WriteLine(game2.title);
+            Console.WriteLine(game2.price);
 
         }
     }
